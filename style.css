@@ -1,0 +1,54 @@
+.full-body{
+    background-color: #f0fff0;
+}
+.logo-img img{
+    width: 20%;
+}
+.button-aria{
+    margin-left: 300px;
+}
+.nev-ber li{
+    padding-left: 30px;
+    font:icon;
+}
+.nav-item button{
+    width: 100px;
+    height: 42px;
+    background-color:#21B573;
+    color: #fff;
+    border-radius: 50px;
+    border-style: none;
+}
+span{
+    color: #21B573;  
+}
+.haf-witdh{
+    width: 30%;
+    float: left;
+}
+.haf-witdh h6{
+    color: #FD511A;
+    line-height: 25px;
+    font-size: 16px;
+}
+.haf-witdh h1{
+    line-height:70px;
+}
+.haf-witdh p{
+    line-height: 35px;
+    font-size: 16px;
+    
+}
+.haf-witdh button{
+    line-height: 18.75px;
+    height: 50px;
+    width: 160px;
+    border: none;
+    border-radius: 50px;
+    background-color: #21B573;
+    color: #fff;
+}
+.haf-witdh img{
+    width: 130%;
+    margin-left: 318px;
+}
