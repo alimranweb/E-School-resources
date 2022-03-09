@@ -1,5 +1,8 @@
-.full-body{
-    background-color: #f0fff0;
+.logo-img{
+    margin-top: 20px;
+}
+.nevber{
+    margin-top: 15px;
 }
 .logo-img img{
     width: 20%;
@@ -22,33 +25,48 @@
 span{
     color: #21B573;  
 }
-.haf-witdh{
-    width: 30%;
-    float: left;
-}
-.haf-witdh h6{
+.hero-left h6{
     color: #FD511A;
     line-height: 25px;
     font-size: 16px;
 }
-.haf-witdh h1{
+.hero-left h1{
     line-height:70px;
 }
-.haf-witdh p{
+.hero-left p{
     line-height: 35px;
     font-size: 16px;
     
 }
-.haf-witdh button{
-    line-height: 18.75px;
-    height: 50px;
-    width: 160px;
-    border: none;
-    border-radius: 50px;
-    background-color: #21B573;
-    color: #fff;
+
+.hero-area {
+    background: #F0FFF0;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
 }
-.haf-witdh img{
-    width: 130%;
-    margin-left: 318px;
+
+.nev-ber {
+    position: relative;
+    z-index: 999;
+}
+
+.hero-right img {
+    width: 100%;
+    padding-right: 50px;
+}
+
+.reader-more-btn {
+    background: #21B573;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 12px 36px;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 30px;
+    text-decoration: none;
 }
